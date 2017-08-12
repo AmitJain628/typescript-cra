@@ -23,6 +23,7 @@
     <Content Include="src\App.test.tsx" />
     <Content Include="src\App.tsx" />
     <Content Include="src\index.tsx" />
+    <Content Include="src\Landing.tsx" />
     <Content Include="tsconfig.json" />
     <Content Include="tsconfig.test.json" />
     <Content Include="tslint.json" />
