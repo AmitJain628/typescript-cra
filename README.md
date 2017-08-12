@@ -1,3 +1,7 @@
+### Typescript Create React App
+
+Basically just an create react app using the typescript option. Giving this a go to see just how functional it is.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
